@@ -1,4 +1,5 @@
 My Linux system lack so many need libnraries, there are following steps I used for an successful installation on a Linux 4.18.0-553.22.1.el8_10.x86_64, GNU/LINUX
+Machine: JPSS
 
 source activate FES_env
 conda config --add channels conda-forge
