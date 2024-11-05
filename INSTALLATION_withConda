@@ -14,3 +14,6 @@ download pybind11 from the github (following the FES directory ) and 'git clone 
 then:
 python setup.py build
 python setup.py install
+ conda install conda-forge::cartopy
+ conda install conda-forge::pyyaml
+./setup.py install_lib   ## For complete path
